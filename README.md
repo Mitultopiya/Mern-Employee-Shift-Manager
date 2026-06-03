@@ -62,7 +62,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/wiseweb-works/mern-employee-shift-manager.git
+git clone https://github.com/Mitultopiya/Mern-Employee-Shift-Manager.git
 cd mern-employee-shift-manager
 ```
 
@@ -83,27 +83,3 @@ pnpm install
 pnpm dev
 ```
 
-## ✨ What I Learned
-
-While developing this project, I deepened my understanding of:
-
-- Implementing calendar components with custom drag-and-drop behavior
-- Building fullstack authentication flows using JWT
-- Managing date/time with timezone awareness
-- Creating modular RESTful APIs with Express and Mongoose
-- Styling complex UIs with Tailwind CSS and component libraries
-
-## 📚 Useful Resources
-
-- [ScheduleX Calendar Docs](https://docs.schedule-x.dev)
-- [Recharts](https://recharts.org/)
-- [Tailwind CSS](https://tailwindcss.com/docs)
-- [Express.js](https://expressjs.com/)
-- [MongoDB Docs](https://www.mongodb.com/docs/)
-- [React Compiler](https://react.dev/learn/react-compiler)
-
-## 🤝 Acknowledgments
-
-This project reflects my ongoing journey in building robust and modern web applications. Thanks to the open-source community and tool creators whose work made this possible.
-
-Feel free to fork this project, contribute, or reach out with feedback!
