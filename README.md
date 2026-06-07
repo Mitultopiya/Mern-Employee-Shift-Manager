@@ -46,7 +46,7 @@
 
 ### Backend
 
-- **Express.js** (v5)
+- **Express.js**
 - **MongoDB + Mongoose**
 - **JWT** for authentication
 - **dotenv** for environment configuration
